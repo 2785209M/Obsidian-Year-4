@@ -67,10 +67,14 @@
             "id": "e4c9b4937ec75e2b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Functional_Programming/Week 1 Lecture 2 - Functions and Lists.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 1 Lecture 2 - Functions and Lists"
             }
           }
         ],
@@ -254,12 +258,12 @@
   },
   "active": "e4c9b4937ec75e2b",
   "lastOpenFiles": [
-    "Functional_Programming/Week 1 Lecture 2 - Functions and Lists.md",
+    "Functional_Programming/Week 4 Lecture 1.md",
     "Functional_Programming/Week 2 Lecture 1 - Introduction & Expressions.md",
+    "Functional_Programming/Week 1 Lecture 2 - Functions and Lists.md",
     "Untitled.md",
     "Untitled.base",
     "Functional_Programming/Week 4 Lecture 2 - REVISION LECTURE.md",
-    "Functional_Programming/Week 4 Lecture 1.md",
     "Control 4/Lecture 1 - Introduction.md",
     "Functional_Programming",
     "git.md",
