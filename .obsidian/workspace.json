@@ -55,26 +55,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functional_Programming/Week 2 Lecture 1 - Introduction & Expressions.md",
+                "file": "Functional_Programming/Week 2 - Lecture 2 - Functions and Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 2 Lecture 1 - Introduction & Expressions"
+              "title": "Week 2 - Lecture 2 - Functions and Lists"
             }
           },
           {
-            "id": "e4c9b4937ec75e2b",
+            "id": "9a29e26832cc1454",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Functional_Programming/Week 3 - Lecture 3 - Lists and Pattern Matching.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 3 - Lecture 3 - Lists and Pattern Matching"
+            }
+          },
+          {
+            "id": "eb84ec593e52d59e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functional_Programming/Week 3 - Lecture 4 - Lists and Pattern Matching.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 3 - Lecture 4 - Lists and Pattern Matching"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -252,14 +270,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4c9b4937ec75e2b",
+  "active": "eb84ec593e52d59e",
   "lastOpenFiles": [
-    "Functional_Programming/Week 1 Lecture 2 - Functions and Lists.md",
-    "Functional_Programming/Week 2 Lecture 1 - Introduction & Expressions.md",
+    "Functional_Programming/Week 3 - Lecture 3 - Lists and Pattern Matching.md",
+    "Functional_Programming/Week 3 - Lecture 4 - Lists and Pattern Matching.md",
+    "Functional_Programming/Week 4 - Lecture 5.md",
+    "Functional_Programming/Week 4 - Lecture 6 - REVISION LECTURE.md",
+    "Functional_Programming/Week 2 - Lecture 2 - Functions and Lists.md",
+    "Functional_Programming/Week 2 - Lecture 1 - Introduction & Expressions.md",
+    "Attachments/Pasted image 20261015193215.png",
+    "Attachments/Pasted image 20261015192810.png",
+    "Attachments/Pasted image 20261015192237.png",
+    "Attachments/Pasted image 20261015192213.png",
+    "Attachments",
     "Untitled.md",
     "Untitled.base",
-    "Functional_Programming/Week 4 Lecture 2 - REVISION LECTURE.md",
-    "Functional_Programming/Week 4 Lecture 1.md",
     "Control 4/Lecture 1 - Introduction.md",
     "Functional_Programming",
     "git.md",
