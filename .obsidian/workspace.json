@@ -81,14 +81,14 @@
             "id": "eb84ec593e52d59e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Functional_Programming/Week 3 - Lecture 3 - Lists and Pattern Matching.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Week 3 - Lecture 3 - Lists and Pattern Matching"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ],
@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7f9ceef0a1f0f164",
@@ -272,10 +273,11 @@
   },
   "active": "eb84ec593e52d59e",
   "lastOpenFiles": [
-    "Functional_Programming/Week 3 - Lecture 4 -.md",
-    "Functional_Programming/Week 3 - Lecture 3 - Lists and Pattern Matching.md",
-    "Functional_Programming/Week 4 - Lecture 5.md",
+    "Functional_Programming/Week 2 - Lecture 1 - Introduction & Expressions.md",
     "Functional_Programming/Week 4 - Lecture 6 - REVISION LECTURE.md",
+    "Functional_Programming/Week 3 - Lecture 3 - Lists and Pattern Matching.md",
+    "Functional_Programming/Week 3 - Lecture 4 -.md",
+    "Functional_Programming/Week 4 - Lecture 5.md",
     "Functional_Programming/Week 2 - Lecture 2 - Functions and Lists.md",
     "Functional_Programming/Week 2 - Lecture 1 - Introduction & Expressions.md",
     "Attachments/Pasted image 20261015193215.png",
