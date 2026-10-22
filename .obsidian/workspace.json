@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "55a69b1e822f1b5b",
+        "id": "17da7fa8275b26c4",
         "type": "tabs",
         "children": [
           {
-            "id": "9a675ef5df784203",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Functional_Programming/Untitled.md",
-                "bFile": "Functional_Programming/Untitled.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Untitled  (Working Tree)"
-            }
-          },
-          {
-            "id": "d96687f3564539e8",
+            "id": "b1a40f770bd1c911",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -35,8 +21,7 @@
               "title": "Diff: workspace.json  (Working Tree)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "493bfa1aab1daef2",
+  "active": "b1a40f770bd1c911",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Functional_Programming/Week 5 - Lecture 7 Monads.md",
