@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " .obsidian/workspace.json",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,16 +242,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83f3b0bf47fbcf4f",
+  "active": "493bfa1aab1daef2",
   "lastOpenFiles": [
-    "Functional_Programming/Week 4 - Lecture 6 - REVISION LECTURE.md",
+    "conflict-files-obsidian-git.md",
+    "Welcome.md",
     "Functional_Programming/Week 5 - Lecture 7 Monads.md",
+    "Functional_Programming/Week 3 - Lecture 4 -.md",
+    "Functional_Programming/Week 4 - Lecture 6 - REVISION LECTURE.md",
     "Functional_Programming/Week 4 - Lecture 5.md",
     "Functional_Programming/Week 3 - Lecture 4 - Lists and Pattern Matching.md",
     "Functional_Programming/Week 3 - Lecture 3 - Lists and Pattern Matching.md",
     "Functional_Programming/Week 2 - Lecture 2 - Functions and Lists.md",
     "Functional_Programming/Week 2 - Lecture 1 - Introduction & Expressions.md",
-    "conflict-files-obsidian-git.md",
     "Functional_Programming/Week 1 Lecture 2 - Functions and Lists.md",
     "Attachments/Pasted image 20261015192810.png",
     "Attachments/Pasted image 20261015192213.png",
@@ -265,7 +267,6 @@
     "Control 4/Lecture 1 - Introduction.md",
     "Functional_Programming",
     "git.md",
-    "Welcome.md",
     "Control 4"
   ]
 }
